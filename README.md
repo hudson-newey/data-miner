@@ -1,1 +1,1 @@
-# crypto-data-miner
+data-miner
